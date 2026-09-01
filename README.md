@@ -1,5 +1,4 @@
-# Our Space - a private digital space for Bibash & Lumi. ❤️
-
+# Our Space - a private digital space
 
 npm install @supabase/supabase-js @supabase/ssr
 
